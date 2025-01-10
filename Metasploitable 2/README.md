@@ -1,12 +1,12 @@
 ## Metasploitable 2
 ### Objective
--Find exploit and prepare scanning tools (Nmap, Nikto, Nessus, & ZAP)
+- Find exploit and prepare scanning tools (Nmap, Nikto, Nessus, & ZAP)
 
--Identify open ports, services, and versions
+- Identify open ports, services, and versions
 
--Pinpoint known vulnerabilities, use Nmap, Nikto, Nessus, & ZAP
+- Pinpoint known vulnerabilities, use Nmap, Nikto, Nessus, & ZAP
 
--Enable firewall within Metasploitable 2 and compare results
+- Enable firewall within Metasploitable 2 and compare results
 
 ### NMap command
 Nmap 192.168.56.0/24 to find IP address and open ports on Metasploit 2 VM.
