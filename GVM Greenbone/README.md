@@ -1,9 +1,9 @@
-### Objectives:
--Check if Greenbone was setup properly
-
--Update Greenbone
-
--Run scans on VM's
+## Greenbone Vulnerability Manager
+### Objectives
+- Check if Greenbone was setup properly
+- Update Greenbone
+- Setup Snort
+- Run scans on pfSense with Snort enabled
 
 
 ### Greenbone check Setup
