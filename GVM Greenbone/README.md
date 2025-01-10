@@ -24,3 +24,14 @@ Hardening can enhance the ability to detect during network scans due it its abil
 
 ![image](https://github.com/user-attachments/assets/fc4a47c6-a6f8-42fa-8ea5-9e732d825028)
 ![image](https://github.com/user-attachments/assets/ae03dfb9-31d1-40b7-b0fb-2ac13eaf261b)
+
+
+[Back to Home](https://github.com/EricFarrell/Cybersecurity-Portfolio/blob/6a83e9281d036567be6e5ed086086a2c0a63f5f6/README.md
+)
+
+[Previous Project - Windows Defender Firewall](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Active%20Directory/Windows%20Defender%20Firewall)
+
+[Next Project - Home Lab Setup](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Home%20Lab%20Setup)
+
+
+
