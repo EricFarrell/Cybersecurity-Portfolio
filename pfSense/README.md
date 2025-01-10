@@ -1,8 +1,12 @@
 ## pfSense 
-### Description & Objective
-First, I made sure my pfSense VM is running and operating properly. from Kali Linux VM, I accessed the pfSense web interface by entering it's IP address into the web browser. My objective of this section is to set the TCP port to 8443, disable World of Warcraft from being accessed, Hulu.com, and Tiktok.com.
+### Objective
+- Configure the TCP port to 8443.
+- Block access to World of Warcraft.
+- Restrict access to the websites Hulu.com and Tiktok.com.
+ 
 
 
+First, I made sure my pfSense VM is running and operating properly. from Kali Linux VM, I accessed the pfSense web interface by entering it's IP address into the web browser.
 
 I navigated to the system settings/Advanced/Admin Access and change the TCP port to 8443.
 ![image](https://github.com/user-attachments/assets/a019ff09-087d-46f3-a5de-0392fbec9d53)
