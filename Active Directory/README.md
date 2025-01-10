@@ -20,7 +20,11 @@
 ![image](https://github.com/user-attachments/assets/77223026-b46d-4011-b51d-45b5133bc67d)
 I then created an organizational unit (OU) named CYB-515.
 ![image](https://github.com/user-attachments/assets/36a0b062-4501-4b0b-95af-13f87da0f4d7)
-Within the Administrator Command Prompt, I created 10 user accounts to put into the OU that was just created.
+Within the Administrator Command Prompt, I created 10 user accounts to put into the OU that was just created by using the following commands:
+
+**dsadd user "cn=John Doe4,OU=CYB-515,dc=farrell,dc=com" -samid Doe4J -upn Doe4J@farrell.com -fn John -ln "Doe 4" -display "John Doe4" -disabled no -pwd "Password1" -mustchpwd no**
+
+
 ![image](https://github.com/user-attachments/assets/c0c66c75-9a68-4525-8ee6-b5b8e3be4e81)
 Within Administrator Windows PowerShell, I also created five groups that were placed into the OU.
 ![image](https://github.com/user-attachments/assets/3cb50857-cef4-4212-a5d3-8e75281107c2)
