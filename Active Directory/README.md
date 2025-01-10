@@ -1,5 +1,14 @@
  ## Active Directory
- Description: 
+ ### Ojbectives
+- Update the system.
+- Create a root domain.
+- Create an Organizational Unit (OU) and add 10 users to it.
+- Create 5 groups within the OU.
+- Assign users to appropriate groups.
+- Implement password policies for each of the 5 groups.
+- Restrict login hours for each department to 9 AM – 8 PM, Monday to Friday.
+- Grant the Human Resources department read, write, and modify all properties of Active Directory user information.
+- Allow the IT department to reset passwords and enforce password changes on the next login for all user accounts.
 
  
  Before making any changes, I went to the settings and ensured the system is up to date on the latest update. 
@@ -44,7 +53,8 @@ For the users apart of the IT department, they can not edit user accounts in Act
 
 
 ### Next Objective
-Join Windows 11 VM to the domain.
+- Join Windows 11 VM to the domain.
+- Disable automatic administrative logon.
 
 In windows 11, I navigated to the settings/system/about and selected Domain. I was then able to change the domain of the system by simply entering my domain name of "whatever.com". If I wanted to put this system into a work group, I would be able to do so from the same properties page.
 ![windows 11 VM domain join](https://github.com/user-attachments/assets/709508d2-c95c-4fbd-863e-b9d8701f92b4)
