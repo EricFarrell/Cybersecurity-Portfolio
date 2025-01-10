@@ -1,5 +1,7 @@
-### Objective:
-To perform reconnaissance and enumeration on the Kioptrix Level 1 virtual machine using Nmap to identify open ports, running services, and potential vulnerabilities, highlighting the role of scanning in penetration testing.
+## Kioptrix 1
+### Objective
+- Perform reconnaissance and enumeration on the Kioptrix Level 1 virtual machine using Nmap to identify open ports running services, and potential vulnerabilities.
+-  Highlighting the role of scanning in penetration testing.
 
 ### Tools and Techniques Used:
 Tool: Nmap (Network Mapper) & Kali Linux
