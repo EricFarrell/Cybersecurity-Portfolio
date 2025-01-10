@@ -1,8 +1,12 @@
-## Maltego
-### Social Engineering Awareness: Ethical Email Discovery and Phishing Simulation Using Maltego
- The objective is to use open-source intelligence tools to identify a potential phishing target and demonstrate how phishing attacks are created, highlighting the importance of cybersecurity awareness.
+## Maltego: Social Engineering Awareness: Ethical Email Discovery and Phishing Simulation
+### Objective
+- Use open-source intelligence tools to identify a potential phishing target.
+- Demonstrate how phishing attacks are created.
+- Highlighting the importance of cybersecurity awareness.
+
+
  
-### Steps taken:
+## Steps taken
 ### Reconnaissance and OSINT:
 Used Maltego to collect publicly available information about Coca-Cola's leadership team.
 Discovered an email address associated with a C-suite executive using ethical, legal methods.
