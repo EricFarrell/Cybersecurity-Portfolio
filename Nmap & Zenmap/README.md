@@ -1,6 +1,7 @@
 ## Nmap & Zenmap
 
-### Objective: The objective is to try different nmap scans, see what information can be obtained from each scan, and explain its purpose.
+### Objective: The objective is to try different nmap scans within Kali Linux, Zenmap scans within Windows 10, 
+see what information can be obtained from each scan, and explain its purpose.
 
 
 
