@@ -9,13 +9,14 @@ This section outlines the design and configuration of my home lab, which serves 
 ![Screenshot 2025-01-09 175330](https://github.com/user-attachments/assets/43f47cce-9f70-41d2-9512-408b061d9227)
 
 
-#### The setup process for Windows Server 2019, Windows 10, and Ubuntu were all exactly the same for the VM. Add a new VM, make sure it has enough storage. I went with 20GB each, 2048MB of memory, and then upload the dedicated ISO file for each VM in the virtual disk drive. Next make sure the network settings are set to Internal Network. For windows 10, this is set to Not Attached while downloading to avoid having to link an account with windows. Once the download process is completed on Windows 10, the network  settings can be reverted to Internal Network. For all VM’s once the download is completed, the system will restart. Before it restarts, go to the VM settings and eject the virtual disk ISO file that was used to setup the download. If it isn’t removed, it will act as if it wants to set up the system again off of that virtual disk drive. Removing it allows the system to run off of the software that it downloaded.
+#### The setup process for Windows Server 2019, Windows 10, and Ubuntu were all exactly the same for the VM. Add a new VM, make sure it has enough storage. I went with a minimum of 15GB each and 2048MB of memory. These numbers I adjusted depending on which VM's I would be making downloads on in the future. Then I upload the dedicated ISO file for each VM in the virtual disk drive. Next make sure the network settings are set to Internal Network. For windows 10, this is set to Not Attached while downloading to avoid having to link an account with windows. Once the download process is completed on Windows 10, the network  settings can be reverted to Internal Network. For all VM’s once the download is completed, the system will restart. Before it restarts, I went to the VM settings and ejected the virtual disk ISO file that was used to setup the download. If it isn’t removed, it will act as if it wants to set up the system again off of that virtual disk drive. Removing it allows the system to run off of the software that it downloaded.
 
 ## Windows Server 2019
-![image](https://github.com/user-attachments/assets/a08760f2-55a7-463e-a19b-300727ce2a44)
-## Windows Server 2019 Ping to Windows 10 VM (192.168.1.11) and Ubuntu VM (192.168.1.12)
 
- (All VM's IP addresses were changed to static within the network settings. This allowed me to keep better track of all machines)
+(All virtual machines were configured with static IP addresses within the network settings. This approach ensures better organization and simplifies tracking and management of each virtual machine within the environment.)
+![image](https://github.com/user-attachments/assets/a08760f2-55a7-463e-a19b-300727ce2a44)
+ 
+## Windows Server 2019 Ping to Windows 10 VM (192.168.1.11) and Ubuntu VM (192.168.1.12)
 ![image](https://github.com/user-attachments/assets/0ff9a7b5-30a5-40ff-960a-fa59db2f83ed)
 ## Ubuntu Pinging Windows Server 2019 (192.168.1.10) & Windows 10 (192.168.1.11)
 ![image](https://github.com/user-attachments/assets/bf19c0f8-79c5-42f2-b711-6db1f7076a95)
