@@ -1,8 +1,8 @@
 ## Maltego: Social Engineering Awareness: Ethical Email Discovery and Phishing Simulation
 ### Objective
-- Use open-source intelligence tools to identify a potential phishing target.
-- Demonstrate how phishing attacks are created.
-- Highlighting the importance of cybersecurity awareness.
+- Use open-source intelligence tools to identify a potential phishing target
+- Demonstrate how phishing attacks are created
+- Highlighting the importance of cybersecurity awareness
 
 
  
