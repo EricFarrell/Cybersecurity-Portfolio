@@ -1,5 +1,5 @@
  ## Active Directory
- ### Ojbectives
+ ### Objectives
 - Update the system.
 - Create a root domain.
 - Create an Organizational Unit (OU) and add 10 users to it.
