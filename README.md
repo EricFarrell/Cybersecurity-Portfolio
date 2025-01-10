@@ -15,7 +15,7 @@ The primary goal of this repository is to:
 # Navigation
 This repository is organized to begin with the "Home Lab Setup" folder, which details the setup of all virtual machines and softwares used throughout the projects. After exploring the "Home Lab Setup," there is no specific order to view the remaining projects. Each folder includes navigation links at the bottom, allowing you to easily return to the home page or navigate to the previous and next projects.
 
-## Projects
+# Projects
 - **ARP Poisoning**: Demonstrates the exploitation of ARP (Address Resolution Protocol) to perform man-in-the-middle (MITM) attacks in a controlled environment.
 - **Active Directory**: Setup and management of AD environments, with a focus on security configurations.
 - **GVM (Greenbone Vulnerability Manager)**: Vulnerability scans and reporting.
