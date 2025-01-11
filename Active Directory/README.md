@@ -12,8 +12,10 @@
 
  
  Before making any changes, I went to the settings and ensured the system is up to date on the latest update. 
- ![image](https://github.com/user-attachments/assets/3dd76cde-f220-4ecb-a716-10b391cf6705)
-![image](https://github.com/user-attachments/assets/c79853a3-edc4-4634-a317-4b19763bbc01)
+ ![image](https://github.com/user-attachments/assets/7a10b3ba-c9ad-4d7d-bd7b-1075db672c4f)
+
+![image](https://github.com/user-attachments/assets/05daecfa-4835-4976-8c96-e4219f51656c)
+
 
 
  Within Windows Server 2019, I created a root domain using my last name.
