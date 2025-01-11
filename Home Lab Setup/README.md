@@ -49,10 +49,3 @@ The setup process for Windows Server 2019, Windows 10, and Ubuntu were all exact
 
 ### pfSense Firewall GUI dashboard (default settings)
 ![image](https://github.com/user-attachments/assets/bdc4ad69-3d34-4fae-97ba-2252710ff823)
-
-
-[Back to Home](https://github.com/EricFarrell/Cybersecurity-Portfolio/blob/e9ff1f4aff4adea839d367703f9c86a8408254d3/README.md)
-
-[Previous Project - GVM Greenbone](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/GVM%20Greenbone)
-
-[Next Project - Infrastrucutre Diagram](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Infrastructure%20Diagram)
