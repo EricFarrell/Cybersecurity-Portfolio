@@ -29,5 +29,4 @@ Included common phishing tactics (e.g., spoofed sender addresses, urgent languag
 ![b60d7c15-a263-4b29-b151-90ee49364009](https://github.com/user-attachments/assets/88987c81-6f9e-47dc-a16d-768e9914e6db)
 
 ### Awareness and Prevention:
-I highlighted the vulnerabilities exposed by OSINT and social engineering techniques.
-Proposed mitigation strategies, such as limiting public information, email filtering, and employee training.
+Phishing and social engineering attacks are significant cybersecurity threats. Mitigation strategies include implementing multi-factor authentication, educating users on recognizing suspicious communications, enabling email filtering tools, conducting regular security awareness training, and establishing incident response protocols. By adopting these practices, organizations can effectively reduce the risk of compromise and enhance their overall security posture.
