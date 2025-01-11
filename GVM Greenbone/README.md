@@ -9,7 +9,8 @@
 ### Greenbone check Setup
 The gvm-check-setup command in Kali Linux is used to check if the Greenbone Vulnerability Manager (GVM) has been set up correctly. It verifies that all necessary components, such as services, configurations, and vulnerability data, are installed and running properly. If there are issues, it provides helpful messages to guide you in fixing them.
 
-<img width="1128" alt="GVM" src="https://github.com/user-attachments/assets/c8d0ef08-c310-4d09-a2a6-d8764ad600b3" />
+<img width="1128" alt="c8d0ef08-c310-4d09-a2a6-d8764ad600b3" src="https://github.com/user-attachments/assets/66f31412-5af7-41ce-b74c-892fddc73aa5" />
+
 
 ### GVM Start
 The gvm-start command in Kali Linux is used to start all the necessary services for the Greenbone Vulnerability Manager (GVM). It automatically opens a new browser and takes you to the web interface.
