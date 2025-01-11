@@ -25,10 +25,3 @@ Included common phishing tactics (e.g., spoofed sender addresses, urgent languag
 ### Awareness and Prevention:
 Highlighted the vulnerabilities exposed by OSINT and social engineering techniques.
 Proposed mitigation strategies, such as limiting public information, email filtering, and employee training.
-
-
-[Back to Home](https://github.com/EricFarrell/Cybersecurity-Portfolio/blob/e9ff1f4aff4adea839d367703f9c86a8408254d3/README.md)
-
-[Previous Project - Kioptrix 1](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Kioptrix%201)
-
-[Next Project - Metasploitable 2](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Metasploitable%202)
