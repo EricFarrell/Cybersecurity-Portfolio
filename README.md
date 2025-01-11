@@ -13,7 +13,7 @@ The primary goal of this repository is to:
 - Provide prospective employers with tangible examples of my work to highlight my hands-on capabilities in cybersecurity.
 
 # Navigation
-This repository is organized to begin with the Home Lab Setup folder, which details the setup of all virtual machines and softwares used throughout the projects. After exploring the "Home Lab Setup," there is no specific order to view the remaining projects. Each project includes a dedicated 'README.md' file containing all relevant information about the project.
+This repository is organized to begin with the Home Lab Setup folder, which details the setup of all virtual machines and softwares used throughout the projects. After exploring the <ins> "Home Lab Setup" </ins> there is no specific order to view the remaining projects. Each project includes a dedicated <ins> README.md </ins> file containing all relevant information about the project.
 
 # Projects
 - **ARP Poisoning**: Demonstrates the exploitation of ARP (Address Resolution Protocol) to perform man-in-the-middle (MITM) attacks in a controlled environment.
