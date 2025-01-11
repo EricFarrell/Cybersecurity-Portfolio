@@ -54,10 +54,3 @@ Within Server Manager and its System Configurations, I diabled all services from
 were unabled to be modified, which is why they are checked.
 ![image](https://github.com/user-attachments/assets/5f1999ee-cc14-489a-b902-03720d31c569)
 
-
-[Back to Home](https://github.com/EricFarrell/Cybersecurity-Portfolio/blob/e9ff1f4aff4adea839d367703f9c86a8408254d3/README.md)
-
-[Previous Project - Active Directory](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/f74b90c18a831bcfec0237273ff77beddcadf1db/Active%20Directory
-)
-
-[Next Project - GVM Greenbone](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/GVM%20Greenbone)
