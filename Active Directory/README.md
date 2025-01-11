@@ -34,7 +34,7 @@ Within the Administrator Command Prompt, I created 10 user accounts to put into 
 Within Administrator Windows PowerShell, I also created five groups that were placed into the OU.
 ![image](https://github.com/user-attachments/assets/31950335-ebca-45d1-a4c8-a7b60e0fb25e)
 
-Password policies within Active Directory for each of the five groups were implemented. Along with a "gpupdate /force" in Administrator Windows Powershell to force update Group Policy Settings immediately.
+Password policies within Active Directory for each of the five groups were implemented. Along with The gpupdate /force command in Administrator Windows Powershell refreshes and reapplies all Group Policy settings immediately, ensuring both user and computer policies are updated regardless of changes.
 ![image](https://github.com/user-attachments/assets/9e70e506-db82-4b93-9062-3969a2a8db0f)
 
 
@@ -46,16 +46,20 @@ In the following three screenshots, I placed three users into the Human Resource
 
 
 For the Research and Developement Department group, I limited this departments logon hours from 9AM to 8PM Monday through Friday.
-In the following two screenshots, I enabled to "disconnect clients when logon hours expire". 
-Along with The gpupdate /force command in Windows Server 2019 refreshes and reapplies all Group Policy settings immediately, ensuring both user and computer policies are updated regardless of changes.
-![image](https://github.com/user-attachments/assets/0d22d6df-a09b-44a3-890c-3aef4056abe8)
-![image](https://github.com/user-attachments/assets/5d7d965d-15aa-4361-8f35-b127f31edd03)
+In the following two screenshots, I enabled "Disconnect clients when logon hours expire". 
+Along with The gpupdate /force command in Administrator Windows Powershell refreshes and reapplies all Group Policy settings immediately, ensuring both user and computer policies are updated regardless of changes.
+![image](https://github.com/user-attachments/assets/c9e84a09-da17-4a5c-a663-45549da4ca4a)
+![image](https://github.com/user-attachments/assets/0f51ae8c-c8a2-4985-807e-f1498aef1f1c)
+![image](https://github.com/user-attachments/assets/f115310b-e7b4-4e55-a6bf-fe899f1dbce5)
 
-I gave control to the Human Resources Department to Read, Write, and Write all Properties of all active directory user account information.
-![image](https://github.com/user-attachments/assets/23751392-f401-4ca6-8af6-52e9c253b354)
+
+I gave control to the Human Resources Department to Read, Write, and Write all Properties of all active directory user account information by using the Active Directory Control Wizard.
+![image](https://github.com/user-attachments/assets/63e39bc3-a22c-4c73-9b96-10af28d796c6)
+
 
 I gave access the IT Department group the ability to reset passwords and force a password change at the next log-on for all active directory user accounts.
-![image](https://github.com/user-attachments/assets/444377c4-4ccc-4c07-943f-398d23d4e411)
+![image](https://github.com/user-attachments/assets/4301c708-be0e-44b0-991d-6a9634e1d2ea)
+
 
 
 For the following user "John Doe 4" since they are apart of the Human Resources Department, it shows that they are able to edit a user account in Active Directory.
