@@ -13,7 +13,7 @@ The primary goal of this repository is to:
 - Provide prospective employers with tangible examples of my work to highlight my hands-on capabilities in cybersecurity.
 
 # Navigation
-This repository is organized to begin with the [Home Lab Setup](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Home%20Lab%20Setup) folder, which details the setup of all virtual machines and softwares used throughout the projects. After exploring the "Home Lab Setup," there is no specific order to view the remaining projects. Each folder includes navigation links at the bottom, allowing you to easily return to the home page or navigate to the previous and next projects.
+This repository is organized to begin with the [Home Lab Setup](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/aa2090eebdf20f6bb3128b54eacfc1e7936dde8e/Home%20Lab%20Setup) folder, which details the setup of all virtual machines and softwares used throughout the projects. After exploring the "Home Lab Setup," there is no specific order to view the remaining projects. Each folder includes navigation links at the bottom, allowing you to easily return to the home page or navigate to the previous and next projects.
 
 # Projects
 - **ARP Poisoning**: Demonstrates the exploitation of ARP (Address Resolution Protocol) to perform man-in-the-middle (MITM) attacks in a controlled environment.
