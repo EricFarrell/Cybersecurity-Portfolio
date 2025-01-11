@@ -62,11 +62,13 @@ I gave access the IT Department group the ability to reset passwords and force a
 
 
 
-For the following user "John Doe 4" since they are apart of the Human Resources Department, it shows that they are able to edit a user account in Active Directory.
-![image](https://github.com/user-attachments/assets/1e023cf9-52dc-4db9-9f0c-1994f08ed71f)
+For the following user "John Doe 4" since they are apart of the Human Resources Department, it shows that they are able to edit a user account in Active Directory. In the screenshot, The user of "John Doe 5" is being modified.
+![image](https://github.com/user-attachments/assets/c2573c9e-eadf-43a6-a226-262e8ba2cd1a)
+
 
 For the users apart of the IT department, they can not edit user accounts in Active Directory, but they are able to change passwords of all other users.
-![image](https://github.com/user-attachments/assets/2cfc9ee7-19c7-4761-a62f-8db2a707de8b)
+![image](https://github.com/user-attachments/assets/666577d5-712b-4ddd-a5c9-29fcd5f0c6e9)
+
 
 
 ### Next Objective
