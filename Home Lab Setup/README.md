@@ -5,7 +5,8 @@ This section outlines the design and configuration of my home lab, which serves 
 
 
 ### Virtualbox running with all of the Virtual Machines (VM's) listed.
-![image](https://github.com/user-attachments/assets/36165aff-91b6-4418-b1ca-3d6c9f24959b)
+![36165aff-91b6-4418-b1ca-3d6c9f24959b](https://github.com/user-attachments/assets/4c2c7124-3ed2-4f18-b38a-bc6c2f93e6a8)
+
 ![Screenshot 2025-01-09 175330](https://github.com/user-attachments/assets/43f47cce-9f70-41d2-9512-408b061d9227)
 
 
