@@ -34,14 +34,16 @@ Within the Administrator Command Prompt, I created 10 user accounts to put into 
 Within Administrator Windows PowerShell, I also created five groups that were placed into the OU.
 ![image](https://github.com/user-attachments/assets/31950335-ebca-45d1-a4c8-a7b60e0fb25e)
 
-Password policies within Active Directory for each of the five groups were implemented. Along with a "gpupdate /force" to update Group Policy Settings immediately.
+Password policies within Active Directory for each of the five groups were implemented. Along with a "gpupdate /force" in Administrator Windows Powershell to force update Group Policy Settings immediately.
 ![image](https://github.com/user-attachments/assets/9e70e506-db82-4b93-9062-3969a2a8db0f)
 
 
 In the following three screenshots, I placed three users into the Human Resources Department group, three other users in the Research and Developement group, and four other users in the IT Department group.
-![image](https://github.com/user-attachments/assets/60ac6c7d-58fe-4e8b-8e1f-4c716e134202)
-![image](https://github.com/user-attachments/assets/345ab818-aee1-4dea-8362-d9ca2f82e453)
-![image](https://github.com/user-attachments/assets/64ec632a-e9c1-46c3-ae4a-bb65b50cf846)
+![image](https://github.com/user-attachments/assets/0fb00a0d-ff13-4ce6-906f-8bc6c0ccddc4)
+![image](https://github.com/user-attachments/assets/c9bb1337-2715-477f-a9f2-14b891421ac8)
+![image](https://github.com/user-attachments/assets/1cd31579-669d-4226-af6c-cbf81c120177)
+
+
 
 For the Research and Developement Department group, I limited this departments logon hours from 9AM to 8PM Monday through Friday.
 In the following two screenshots, I enabled to "disconnect clients when logon hours expire". 
