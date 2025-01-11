@@ -13,6 +13,8 @@ The gvm-check-setup command in Kali Linux is used to check if the Greenbone Vuln
 
 ### GVM Start
 The gvm-start command in Kali Linux is used to start all the necessary services for the Greenbone Vulnerability Manager (GVM). It automatically opens a new browser and takes you to the web interface.
+![greenbone main](https://github.com/user-attachments/assets/4d3f7f4a-468b-4ecf-9fc7-bcd2b37a2ada)
+
 
 ### GVM Scans
 Within GVM, I created a new scan and inputted the IP address of the pfsense VM after all configurations were completed on pfSense. I named this scan "Snort".
