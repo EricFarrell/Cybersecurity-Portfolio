@@ -17,19 +17,24 @@
 
 
  Within Windows Server 2019, I created a root domain using my last name.
-![image](https://github.com/user-attachments/assets/77223026-b46d-4011-b51d-45b5133bc67d)
+![image](https://github.com/user-attachments/assets/e9d432f4-d663-469f-b62f-370ec9adf9f9)
+
 I then created an organizational unit (OU) named CYB-515.
-![image](https://github.com/user-attachments/assets/36a0b062-4501-4b0b-95af-13f87da0f4d7)
+![image](https://github.com/user-attachments/assets/b76ab1f3-7449-4d05-9e24-4be228b245ae)
+
 Within the Administrator Command Prompt, I created 10 user accounts to put into the OU that was just created by using the following commands:
 
 **dsadd user "cn=John Doe4,OU=CYB-515,dc=farrell,dc=com" -samid Doe4J -upn Doe4J@farrell.com -fn John -ln "Doe 4" -display "John Doe4" -disabled no -pwd "Password1" -mustchpwd no**
 
 
-![image](https://github.com/user-attachments/assets/c0c66c75-9a68-4525-8ee6-b5b8e3be4e81)
+![image](https://github.com/user-attachments/assets/f46579a7-62d5-4194-9c35-840f99ad7acb)
+
 Within Administrator Windows PowerShell, I also created five groups that were placed into the OU.
-![image](https://github.com/user-attachments/assets/3cb50857-cef4-4212-a5d3-8e75281107c2)
-Password policies within Active Directory for each of the five groups were implemented.
-![image](https://github.com/user-attachments/assets/636c66b4-e326-4c27-a0f7-0e1a4ca9817a)
+![image](https://github.com/user-attachments/assets/31950335-ebca-45d1-a4c8-a7b60e0fb25e)
+
+Password policies within Active Directory for each of the five groups were implemented. Along with a "gpupdate /force" to update Group Policy Settings immediately.
+![image](https://github.com/user-attachments/assets/9e70e506-db82-4b93-9062-3969a2a8db0f)
+
 
 In the following three screenshots, I placed three users into the Human Resources Department group, three other users in the Research and Developement group, and four other users in the IT Department group.
 ![image](https://github.com/user-attachments/assets/60ac6c7d-58fe-4e8b-8e1f-4c716e134202)
