@@ -63,13 +63,3 @@ Runs Nmap's vulnerability scanning scripts, which are part of the NSE (Nmap Scri
 SSL POODLE, CCS Injection
 ![image](https://github.com/user-attachments/assets/3e79a37f-3b41-47c6-8e7d-54db4e49e340)
 
-
-
-
-[Back to Home](https://github.com/EricFarrell/Cybersecurity-Portfolio/blob/e9ff1f4aff4adea839d367703f9c86a8408254d3/README.md)
-
-
-[Previous Project - Infrastructure Diagram](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Infrastructure%20Diagram)
-
-
-[Next Project - Maltego](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Maltego)
