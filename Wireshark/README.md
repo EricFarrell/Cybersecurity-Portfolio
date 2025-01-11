@@ -40,9 +40,4 @@ I tried the same for a "TCP" filter to see if there is any traffic. This time, t
 
 
 
-[Back to Home](https://github.com/EricFarrell/Cybersecurity-Portfolio/blob/6a83e9281d036567be6e5ed086086a2c0a63f5f6/README.md)
-
-[Previous Project - Nmap & Zenmap](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Nmap%20%26%20Zenmap)
-
-[Next Project - pfSense](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/pfSense)
 
