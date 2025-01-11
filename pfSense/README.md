@@ -55,7 +55,4 @@ Once configured, I ran a Snort port scan. The log it outputs includes the detect
 ![snort port scan log](https://github.com/user-attachments/assets/ccf02c81-07f3-49e8-b8b3-751431cd471e)
 
 
-[Back to Home](https://github.com/EricFarrell/Cybersecurity-Portfolio/blob/6a83e9281d036567be6e5ed086086a2c0a63f5f6/README.md)
-
-[Previous Project - Wireshark](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Wireshark)
 
