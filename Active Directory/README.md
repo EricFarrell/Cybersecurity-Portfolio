@@ -76,7 +76,8 @@ For the users apart of the IT department, they can not edit user accounts in Act
 - Disable automatic administrative logon.
 
 In windows 11, I navigated to the settings/system/about and selected Domain. I was then able to change the domain of the system by simply entering my domain name of "whatever.com". If I wanted to put this system into a work group, I would be able to do so from the same properties page.
-![windows 11 VM domain join](https://github.com/user-attachments/assets/709508d2-c95c-4fbd-863e-b9d8701f92b4)
+![windows 11 VM domain join](https://github.com/user-attachments/assets/19f75d01-3972-4077-b780-6b2e46295749)
+
 
 In Windows Server 2019, I navigated to Local Security Policy/Local Policies/Security Options and "Disabled" "Recovery console: Allow automatic adminsitrative logon". Once applied, I was prompted to enter the password of
 the account that's to be configured.
