@@ -42,12 +42,3 @@ Since it's blocking all incoming traffic, I have to create a rule to allow legit
 After the firewall was enabled, I ran the same basic network scan and all but one critical vulnerablity were removed. Overall, there are now 21 vulnerabilities, compared to the 47 vulnerabilities before the firewall was enabled. 
 ![image](https://github.com/user-attachments/assets/45fba86c-2913-4e4b-9842-1012eb9cfc24)
 
-
-[Back to Home](https://github.com/EricFarrell/Cybersecurity-Portfolio/blob/e9ff1f4aff4adea839d367703f9c86a8408254d3/README.md)
-
-[Previous Project - Maltego](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Maltego)
-
-[Next Project - Nmap & Zenmap](https://github.com/EricFarrell/Cybersecurity-Portfolio/tree/6a83e9281d036567be6e5ed086086a2c0a63f5f6/Nmap%20%26%20Zenmap)
-
-
-
