@@ -1,8 +1,6 @@
 ## Home Lab Setup
 This section outlines the design and configuration of my home lab, which serves as a sandbox for experimenting with cybersecurity tools, testing attack scenarios, and developing mitigation strategies. The lab is designed to replicate real-world environments, enabling hands-on learning and skill development in a controlled setting.
 
-**Tools**: VirtualBox, pfSense, Kali Linux, Windows 10, Windows Server 2019, Ubuntu, pfSense, ZAP, .
-
 
 ### Virtualbox running with all of the Virtual Machines (VM's) listed.
 ![36165aff-91b6-4418-b1ca-3d6c9f24959b](https://github.com/user-attachments/assets/4c2c7124-3ed2-4f18-b38a-bc6c2f93e6a8)
