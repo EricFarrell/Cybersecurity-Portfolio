@@ -1,8 +1,8 @@
 ## pfSense 
 ### Objective
-- Configure the TCP port to 8443.
-- Block access to World of Warcraft.
-- Restrict access to the websites Hulu.com and Tiktok.com.
+- Configure the TCP port to 8443
+- Block access to World of Warcraft
+- Restrict access to the websites Hulu.com and Tiktok.com
  
 
 
