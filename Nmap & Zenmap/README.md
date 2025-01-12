@@ -2,7 +2,7 @@
 
 ### Objective
 - Perform various Nmap scans in Kali Linux and Zenmap scans in Windows 10
-- Analyze the information obtained from each scan, and explain the purpose and use of each scanning technique.
+- Analyze the information obtained from each scan, and explain the purpose and use of each scanning technique
 
 
 
