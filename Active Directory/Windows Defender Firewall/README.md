@@ -1,11 +1,11 @@
 ## Windows Defender Firewall with Advanced Security
 ### Objective
-- Block Inbound Connections for all profiles.
-- Enable Firewall for all profiles.
-- Don't store LAN Manager hash values on password change.
-- Allow NTLMv2 and Refuse LM & NTLM.
-- Disable network sharing.
-- Disable all services from the system.
+- Block Inbound Connections for all profiles
+- Enable Firewall for all profiles
+- Don't store LAN Manager hash values on password change
+- Allow NTLMv2 and Refuse LM & NTLM
+- Disable network sharing
+- Disable all services from the system
 
 
 On Windows Server 2019 I navigated to Windows Defender Firewall and changed the following options on the Domain Profile:
