@@ -2,9 +2,9 @@
 
 ### Objective
 - Capture network traffic using packet analysis.
-- Ping virtual machines (VMs) and monitor network activity.
-- Identify any insecure network traffic or vulnerabilities.
-- Perform a service scan to assess available services.
+- Ping virtual machines (VMs) and monitor network activity
+- Identify any insecure network traffic or vulnerabilities
+- Perform a service scan to assess available services
 
 ### Identifying Kali Linux & Windows 10
 
