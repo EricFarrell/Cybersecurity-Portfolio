@@ -1,7 +1,7 @@
 ## Kioptrix 1
 ### Objective
-- Perform reconnaissance and enumeration on the Kioptrix Level 1 virtual machine using Nmap to identify open ports running services, and potential vulnerabilities.
--  Highlighting the role of scanning in penetration testing.
+- Perform reconnaissance and enumeration on the Kioptrix Level 1 virtual machine using Nmap to identify open ports running services, and potential vulnerabilities
+-  Highlighting the role of scanning in penetration testing
 
 ## Nmap 192.168.56.0/24 
 This command performs a basic ping sweep, scanning all IP addresses in the 192.168.56.0/24 subnet range (from 192.168.56.0 to 192.168.56.255) to identify active hosts. This command found the IP address of 192.168.56.102 with open ports. This is the Kioptrix 1 VM. 
