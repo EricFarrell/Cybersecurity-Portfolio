@@ -1,10 +1,10 @@
 ## ARP Poisoning
 
 ### Objective
-- Spoof the MAC address of a network interface and impersonate another network.
+- Spoof the MAC address of a network interface and impersonate another network
 
-"Macchanger -r eth0" was used in Root Terminal on Kali Linux. This was used to randomly change the MAC address of the network interface.
-It shows the current MAC address, the permanent MAC address, and the new MAC address. 
+"Macchanger -r eth0" was used in Root Terminal on Kali Linux. This was used to randomly change the MAC address of the network interface
+It shows the current MAC address, the permanent MAC address, and the new MAC address.
 
 After doing an "ifconfig -a" it can be seen that the new MAC address was applied.
 ![image](https://github.com/user-attachments/assets/a466c9ff-c9bf-4b00-beee-5600c008fe1f)
